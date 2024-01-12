@@ -9,3 +9,7 @@ URL-REGEX,^https:\/\/fund\.xueqiu\.com\/fundx
 URL-REGEX,^https:\/\/api\.xueqiu\.com\/ucprofile\/api\/user\/batch_get_profile_image\.json
 URL-REGEX,^https:\/\/api\.xueqiu\.com\/recommend-proxy\/card\/zj_card\.json
 URL-REGEX,^https:\/\/open\.xueqiu\.com\/mpaas\/rn\/releases\/v2\/match_bundles
+URL-REGEX,^https:\/\/api.xueqiu.com\/ucprofile\/api\/user\/batchGetUserBasicInfo.json
+URL-REGEX,^https:\/\/api\.xueqiu\.com\/brand\/search\/v1\.json\?
+URL-REGEX,^https?:\/\/xqimg\.imedao\.com\/[a-z0-9]{24}\.jpg$
+URL-REGEX,^https:\/\/api\.xueqiu\.com\/snowpard\/launch_strategy\/query\.json\?
