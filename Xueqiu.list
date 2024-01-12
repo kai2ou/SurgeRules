@@ -1,0 +1,11 @@
+#!name: 雪球
+#!desc: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
+URL-REGEX,^https:\/\/api\.xueqiu\.com\/statuses\/livenews\/mark\/list\.json\?
+URL-REGEX,^https:\/\/api\.xueqiu\.com\/snowflake-theme\/query\/v1\/hot_event\/rich_tag_new\.json\?
+URL-REGEX,^https:\/\/api\.xueqiu\.com\/recommend-proxy\/card\/zj_card\.json\?
+URL-REGEX,^https:\/\/api\.xueqiu\.com\/analysis\/build_union\/dialog\/show\.json\?
+URL-REGEX,^https:\/\/api\.xueqiu\.com\/snowpard\/launch_strategy\/query\.json\?
+URL-REGEX,^https:\/\/fund\.xueqiu\.com\/fundx
+URL-REGEX,^https:\/\/api\.xueqiu\.com\/ucprofile\/api\/user\/batch_get_profile_image\.json
+URL-REGEX,^https:\/\/api\.xueqiu\.com\/recommend-proxy\/card\/zj_card\.json
+URL-REGEX,^https:\/\/open\.xueqiu\.com\/mpaas\/rn\/releases\/v2\/match_bundles
